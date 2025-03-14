@@ -63,7 +63,7 @@ Presentación de los objetivos y metodología del curso. Introducción al derech
 
 -   Maurino, Gustavo y Sucunza Matías, "Acceso a la Justicia", en Gargarella- Guidi *Comentarios de la Constitución de la Nación Argentina*, tomo 2, pp 895-929, puntos 3 y 4, [aca](https://drive.google.com/file/d/1On39ejMciqQNjJIpz1fPseKak_KCjuuF/view?usp=sharing).
 
--   Reglas de Brasilia sobre Acceso a la Justicia de las Personas con vulnerabilidad con la actualización de 2018, [en este link](http://www.cumbrejudicial.org/comision-de-seguimiento-de-las-reglas-de-brasilia/documentos-comision-de-seguimiento-de-las-reglas-de-brasilia/item/817-cien-reglas-de-brasilia-actualizadas-version-abril-2018-xix-cumbre-judicial-asamblea-plenaria-san-francisco-de-quito)
+-   Reglas de Brasilia sobre Acceso a la Justicia de las Personas con vulnerabilidad con la actualización de 2018, [en este link](https://brasilia100r.com/wp-content/uploads/2020/07/Reglas-de-Brasilia-actualizaci%C3%B3n-2018.pdf)
 
 - Borrador de Convenio Iberoamericano sobre Acceso a la Justicia [aca](https://drive.google.com/file/d/1ZvhBoVmS245Mt4_mxBN_GJOdlh1jDEL5/view?usp=sharing)
 
@@ -105,6 +105,8 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 - CSJN Fallo "Otoya Piedra", [aca](https://drive.google.com/file/d/1pCrN9ZpmIbFxLVbRP_inKTYmjocRSiwa/view?usp=sharing)
 
+- CSJN Fallo "Barrios Rojas [aca](https://drive.google.com/file/d/15DQUBVIVb6feRRGwkksVgjZT9qRLTdOL/view?usp=sharing)
+
 - DNU 942/2024, art. 4 [aca](https://servicios.infoleg.gob.ar/infolegInternet/anexos/405000-409999/405520/norma.htm)
 
 <iframe src="https://drive.google.com/file/d/1HsNG-QDJsp31jH11RkpUEMXX27kHTJl0/preview" width="560" height="315" allow="autoplay"></iframe>
@@ -119,7 +121,7 @@ b.  Usurpaciones y derecho de defensa
 
 - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing)
 
-- Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)"
+<!-- - Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)" -->
 
 ### `r advdate(martes, 5)`. Unidad 3. La práctica
 
@@ -131,7 +133,7 @@ b.  Personas con discapacidad
 
 - CSJN, "Asociación Francesa de Beneficencia" [aca](https://drive.google.com/file/d/1hVROXu_IFbswD_0UtcBpXPZ0gEbTIiQJ/view?usp=share_link)
 
-- CSJN, "Institutos Médicos Antártida s/ quiebra s/ inc. de verificación (R.A.F. y L.R.H. de F)" [aca](https://drive.google.com/file/d/1THtTAOVsLhI8y5mQq5mNTLrt-LFdFc-K/view?usp=sharing)
+- (opcional) CSJN, "Institutos Médicos Antártida s/ quiebra s/ inc. de verificación (R.A.F. y L.R.H. de F)" [aca](https://drive.google.com/file/d/1THtTAOVsLhI8y5mQq5mNTLrt-LFdFc-K/view?usp=sharing)
 
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
 
