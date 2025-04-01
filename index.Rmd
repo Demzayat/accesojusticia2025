@@ -86,6 +86,8 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 
 -   Piqué, María, "Los derechos de las víctimas de delitos en nuestra Constitución", disponible [aca](https://drive.google.com/file/d/1NaUqgIjcAosZx6OCPuJzcdG3sbKrqfaC/view?usp=sharing)
 
+- Ley de víctimas [aca](https://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/276819/norma.htm)
+
 - Declaración de Karina Gimenez, a partir del minuto 28 hasta el minuto 35.
 
 <iframe src="https://drive.google.com/file/d/1ARawcLLXQ_35LuElRaTyZGEHzDAWGr3t/preview" width="560" height="315" allow="autoplay"></iframe>
@@ -101,11 +103,11 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 -   Oteiza y Zayat, A treinta años de la CDN, [aca](https://drive.google.com/file/d/1rZbIfh3834THG1K07moFq1Cgp_zmYtsk/view?usp=sharing)
 
+- CSJN Fallo "Barrios Rojas" [aca](https://drive.google.com/file/d/15DQUBVIVb6feRRGwkksVgjZT9qRLTdOL/view?usp=sharing)
+
 - CSJN, Fallo "Zuluaga Celemin" del 13/10/2022 [aca](https://drive.google.com/file/d/1B0sp1vdW7HV6fYlQxB1nLoCG4GXRYcR8/view?usp=sharing)
 
-- CSJN Fallo "Otoya Piedra", [aca](https://drive.google.com/file/d/1pCrN9ZpmIbFxLVbRP_inKTYmjocRSiwa/view?usp=sharing)
-
-- CSJN Fallo "Barrios Rojas [aca](https://drive.google.com/file/d/15DQUBVIVb6feRRGwkksVgjZT9qRLTdOL/view?usp=sharing)
+- <mark style="background-color: #FFEA00; color: black;">CSJN Fallo "Chiemena Uhiara" [aca](https://drive.google.com/file/d/1m4EdxUp68KgqEPfTHjRH59QR_IDpFAk5/view?usp=sharing)</mark> Este para la clase próxima del 4/4
 
 - DNU 942/2024, art. 4 [aca](https://servicios.infoleg.gob.ar/infolegInternet/anexos/405000-409999/405520/norma.htm)
 
@@ -119,7 +121,7 @@ b.  Usurpaciones y derecho de defensa
 
 -   Ricciardi y Zayat, *El derecho de defensa en los casos de usurpaciones en la Ciudad de Buenos Aires: un estudio empírico*, en Revista Institucional de la Defensa Pública de la CABA N° 1, disponible [acá](https://drive.google.com/file/d/1KeqFSqkZ2aBrHXkRcIaZCVu6AMSaX7zH/view?usp=sharing)
 
-- Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing)
+<!-- - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing) -->
 
 <!-- - Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)" -->
 
