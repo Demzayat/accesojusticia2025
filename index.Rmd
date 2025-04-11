@@ -225,7 +225,9 @@ f.  Pueblos originarios
 
 <iframe src="https://drive.google.com/file/d/1l0JvN4Kem5L9y8e-wwhxmfGpSnU4p72g/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### `r advdate(viernes, 8)`. Unidad 4. Litigio Constitucional
+### `r advdate(viernes, 8)`. Feriado puente. No hay clases
+
+### `r advdate(martes, 9)`. Unidad 4. Litigio Constitucional
 
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: 
 
@@ -236,5 +238,5 @@ Estándares de la Corte Suprema para facilitar el acceso a la justicia:
 - Amparo colectivo [DADSE](https://drive.google.com/file/d/1JKvY_Tlo8fV1MUStzKk_WLW_QkCFG1LG/view?usp=sharing)
 
 
-### `r advdate(martes, 9)`. Examen final presencial
+### `r advdate(viernes, 9)`. Examen final presencial
 
