@@ -141,14 +141,14 @@ b.  Personas con discapacidad
 
 - CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
 
-c. Niñeces
-
-  - Romina Faerman, [Las decisiones de los NNA a la luz del principio de autonomía](https://drive.google.com/file/d/1vjWDNx026ng38dl2I4G_ojXGlBQt23TT/view?usp=sharing)
- 
-  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing), presentado por Romina Faerman (en especial capítulo 2)
-  
 
 ### `r advdate(martes, 6)`. Unidad 3. La práctica - LGBTIQ
+
+c. Niñeces
+
+  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing) (solo Capítulos 1 y 2)
+  
+
 
 d.  LGBT Trans
 
@@ -158,8 +158,7 @@ d.  LGBT Trans
 
 - Caso de Luz Aime, [aca](https://www.cosecharoja.org/absolucion-para-luz-le-quieren-dar-perpetua-por-trans-y-pobre/)
 
-Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341808/norma.htm) y la 
-[ley 27.636](http://servicios.infoleg.gob.ar/infolegInternet/anexos/350000-354999/351815/norma.htm)
+<iframe src="https://drive.google.com/file/d/10sNUdx9RvOP_lPg7TqSARLt-t0268FTV/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### `r advdate(viernes, 6)`No hay clases
 
