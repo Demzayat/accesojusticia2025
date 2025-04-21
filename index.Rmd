@@ -158,7 +158,9 @@ d.  LGBT Trans
 
 - Caso de Luz Aime, [aca](https://www.cosecharoja.org/absolucion-para-luz-le-quieren-dar-perpetua-por-trans-y-pobre/)
 
-<iframe src="https://drive.google.com/file/d/10sNUdx9RvOP_lPg7TqSARLt-t0268FTV/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10sNUdx9RvOP_lPg7TqSARLt-t0268FTV/preview" width="560" height="320" allow="autoplay"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### `r advdate(viernes, 6)`No hay clases
 
