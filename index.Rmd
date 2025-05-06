@@ -230,7 +230,7 @@ f.  Pueblos originarios
 
 ### `r advdate(martes, 9)`. Unidad 4. Litigio Constitucional
 
-Por el paro de colectivos hacemos virtual en el siguiente link [meet.google.com/tce-thoo-twh](meet.google.com/tce-thoo-twh)
+<mark>Por el paro de colectivos hacemos virtual en el siguiente link [meet.google.com/tce-thoo-twh](meet.google.com/tce-thoo-twh)</mark>
 
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: 
 
@@ -242,7 +242,7 @@ Estándares de la Corte Suprema para facilitar el acceso a la justicia:
 
 otros ejemplos
 
-- CNCAF, sala V, [CELS y OTROS](https://drive.google.com/file/d/1j4N1FxaCWPwVycMh9KS32oLPEqx-vAac/view?usp=sharing)
+- CNCAF, Sala V, [CELS y OTROS s/DNU 70-17](https://drive.google.com/file/d/1j4N1FxaCWPwVycMh9KS32oLPEqx-vAac/view?usp=sharing)
 
 - CSJN, [Quisbert Castro](https://drive.google.com/file/d/1kepRDLt6tK6OjOfKD_d4vBkkivAKNYHk/view?usp=sharing)
 
