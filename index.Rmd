@@ -230,6 +230,8 @@ f.  Pueblos originarios
 
 ### `r advdate(martes, 9)`. Unidad 4. Litigio Constitucional
 
+Por el paro de colectivos hacemos virtual en el siguiente link [meet.google.com/tce-thoo-twh](meet.google.com/tce-thoo-twh)
+
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: 
 
 - CSJN [Halabi](https://drive.google.com/file/d/1EcDi8VnbuUNH7DlaRPhTMit0IGLLGn0d/view?usp=sharing)
@@ -237,6 +239,12 @@ Estándares de la Corte Suprema para facilitar el acceso a la justicia:
 - CSJN [Padec](https://drive.google.com/file/d/186eN_fSToqx4d_W2fRI2pckZA3a5CWCH/view?usp=sharing)
 
 - Amparo colectivo [DADSE](https://drive.google.com/file/d/1JKvY_Tlo8fV1MUStzKk_WLW_QkCFG1LG/view?usp=sharing)
+
+otros ejemplos
+
+- CNCAF, sala V, [CELS y OTROS](https://drive.google.com/file/d/1j4N1FxaCWPwVycMh9KS32oLPEqx-vAac/view?usp=sharing)
+
+- CSJN, [Quisbert Castro](https://drive.google.com/file/d/1kepRDLt6tK6OjOfKD_d4vBkkivAKNYHk/view?usp=sharing)
 
 
 ### `r advdate(viernes, 9)`. Examen final presencial
