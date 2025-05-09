@@ -249,3 +249,5 @@ otros ejemplos
 
 ### `r advdate(viernes, 9)`. Examen final presencial
 
+- caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing)
+
