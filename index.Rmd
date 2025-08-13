@@ -6,8 +6,8 @@ output: pdf_document
 
 ```{r, include=FALSE}
 library(readr)
-martes <- as.Date ("2025-03-11")
-viernes <- as.Date("2025-03-14")
+martes <- as.Date ("2025-08-19")
+viernes <- as.Date("2025-08-22")
 
 advdate <- function(obj, adv) {
   Sys.setlocale("LC_TIME", "es_ES")
@@ -49,16 +49,14 @@ Habrá un único examen presencial al final de la cursada.
 
 ## Cronograma y bibliografía
 
-### `r advdate(viernes, 1)`. Unidad 1. Presentación
+### `r advdate(martes, 1)`. Unidad 1. Presentación
 
 Presentación de los objetivos y metodología del curso. Introducción al derecho de acceso a la justicia. Dimensión instrumental y dimensión sustantiva del derecho. Movimiento de Acceso a la Justicia. Reconocimiento constitucional.
 
 -   Maurino, Gustavo y Sucunza Matías, "Acceso a la Justicia", en Gargarella- Guidi *Comentarios de la Constitución de la Nación Argentina*, tomo 2, pp 895-929, puntos 1 y 2, [aca](https://drive.google.com/file/d/1On39ejMciqQNjJIpz1fPseKak_KCjuuF/view?usp=sharing)
 
 
-### `r advdate(martes, 2)` Paro - No hay clases
-
-### `r advdate(viernes, 2)` Unidad 1. Estándares internacionales 
+### `r advdate(viernes, 1)` Unidad 1. Estándares internacionales 
 
 
 -   Maurino, Gustavo y Sucunza Matías, "Acceso a la Justicia", en Gargarella- Guidi *Comentarios de la Constitución de la Nación Argentina*, tomo 2, pp 895-929, puntos 3 y 4, [aca](https://drive.google.com/file/d/1On39ejMciqQNjJIpz1fPseKak_KCjuuF/view?usp=sharing).
@@ -68,7 +66,7 @@ Presentación de los objetivos y metodología del curso. Introducción al derech
 - Borrador de Convenio Iberoamericano sobre Acceso a la Justicia [aca](https://drive.google.com/file/d/1ZvhBoVmS245Mt4_mxBN_GJOdlh1jDEL5/view?usp=sharing)
 
 
-### `r advdate(martes, 3)` Unidad 2. Concepto clásico y estructural
+### `r advdate(martes, 2)` Unidad 2. Concepto clásico y estructural
 
 
 Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos casos. ¿Es una garantía útil? Ahora, son todes les abogades iguales? Por qué tener dinero es relevante para el sistema judicial? Concepciones clásica y estructural del acceso a la justicia.
@@ -79,7 +77,7 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 
 
 
-### `r advdate(viernes, 3)`. Unidad 3. La Agenda estructural - Víctimas
+### `r advdate(viernes, 2)`. Unidad 3. La Agenda estructural - Víctimas
 
 
 -   CELS, "El acceso a la justicia como una cuestión de derechos humanos", en Informe Anual 2016, [acá](https://drive.google.com/file/d/1qH6DsnHctmesy6nje2f5NgCyowQ0PkyM/view?usp=sharing) El acceso a la justicia como una cuestión de derechos humanos
@@ -93,7 +91,7 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 <iframe src="https://drive.google.com/file/d/1ARawcLLXQ_35LuElRaTyZGEHzDAWGr3t/preview" width="560" height="315" allow="autoplay"></iframe>
 
 
-### `r advdate(martes, 4)`. Unidad 3. La práctica - Migrantes
+### `r advdate(martes, 3)`. Unidad 3. La práctica - Migrantes
 
 En esta unidad comenzaremos a ver cómo son afectados algunos grupos en particular.
 
@@ -115,7 +113,7 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 
 
-### `r advdate(viernes, 4)`. Unidad 3. La práctica - Situación de Calle
+### `r advdate(viernes, 3)`. Unidad 3. La práctica - Situación de Calle
 
 b.  Usurpaciones y derecho de defensa
 
@@ -125,7 +123,7 @@ b.  Usurpaciones y derecho de defensa
 
 - Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)"
 
-### `r advdate(martes, 5)`. Unidad 3. La práctica
+### `r advdate(martes, 4)`. Unidad 3. La práctica
 
 b.  Personas con discapacidad
 
@@ -137,12 +135,12 @@ b.  Personas con discapacidad
 
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
 
-### `r advdate(viernes, 5)`. Unidad 3. La práctica -Niñeces
+### `r advdate(viernes, 4)`. Unidad 3. La práctica -Niñeces
 
 - CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
 
 
-### `r advdate(martes, 6)`. Unidad 3. La práctica - LGBTIQ
+### `r advdate(martes, 5)`. Unidad 3. La práctica - LGBTIQ
 
 c. Niñeces
 
@@ -162,9 +160,8 @@ d.  LGBT Trans
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### `r advdate(viernes, 6)`No hay clases
 
-### `r advdate(martes, 7)`. Unidad 3. La práctica
+### `r advdate(viernes, 5)`. Unidad 3. La práctica
 
 Unidad 3. La práctica - Mujeres
 
@@ -181,7 +178,7 @@ e.  Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-### `r advdate(viernes, 7)`. Unidad 3. La práctica - Mujeres
+### `r advdate(martes, 6)`. Unidad 3. La práctica - Mujeres
 
 e. Mujeres (cont)
 
@@ -199,22 +196,22 @@ Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
 
 
 
-<!-- ### `r advdate(martes, 8)`. Unidad 3. La práctica - Afro -->
+### `r advdate(viernes, 6)`. Unidad 3. La práctica - Afro
 
-<!-- e.  Africanos y afrodescendientes -->
+e.  Africanos y afrodescendientes
 
-<!-- -   Informe Defensoria CABA, [aca](https://drive.google.com/file/d/1vIoZ7GBl8fwXbZWhqoCxqOHsHMvP7Dki/view?usp=sharing) -->
+-   Informe Defensoria CABA, [aca](https://drive.google.com/file/d/1vIoZ7GBl8fwXbZWhqoCxqOHsHMvP7Dki/view?usp=sharing)
 
-<!-- -   Angela Davis, "Raza, Mujeres y clase", Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing)) -->
+-   Angela Davis, "Raza, Mujeres y clase", Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing))
 
-<!-- -   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S) -->
+-   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S)
 
 
-<!-- Acá el video de la charla TED de Kimberle Crenshaw sobre interseccionalidad -->
+Acá el video de la charla TED de Kimberle Crenshaw sobre interseccionalidad
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### `r advdate(martes, 8)`. Unidad 3. La práctica - Pueblos originarios
+### `r advdate(martes, 7)`. Unidad 3. La práctica - Pueblos originarios
 
 f.  Pueblos originarios
 
@@ -226,11 +223,11 @@ f.  Pueblos originarios
 
 <iframe src="https://drive.google.com/file/d/1l0JvN4Kem5L9y8e-wwhxmfGpSnU4p72g/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### `r advdate(viernes, 8)`. Feriado puente. No hay clases
 
-### `r advdate(martes, 9)`. Unidad 4. Litigio Constitucional
 
-<mark>Por el paro de colectivos hacemos virtual en el siguiente link [meet.google.com/tce-thoo-twh](meet.google.com/tce-thoo-twh)</mark>
+### `r advdate(viernes, 7)` y `r advdate(martes, 8)` . Unidad 4. Litigio Constitucional
+
+
 
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: 
 
@@ -247,7 +244,7 @@ otros ejemplos
 - CSJN, [Quisbert Castro](https://drive.google.com/file/d/1kepRDLt6tK6OjOfKD_d4vBkkivAKNYHk/view?usp=sharing)
 
 
-### `r advdate(viernes, 9)`. Examen final presencial
+### `r advdate(viernes, 8)`. Examen final presencial
 
 - caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing)
 
