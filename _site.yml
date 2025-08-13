@@ -4,7 +4,7 @@ description: |
   Acceso a la Justicia y Litigio Constitucional
 output_dir: "docs"
 navbar:
-  title: Comisión 0711 1bim - 2025
+  title: Comisión 0711 3bim - 2025
   left:
     - text: Home
       href: index.html
