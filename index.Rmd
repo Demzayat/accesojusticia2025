@@ -221,6 +221,8 @@ f.  Pueblos originarios
 
 - Comite DH, NFL, [aca](https://drive.google.com/file/d/1CP_TpEaI6XXZIb3ACuyqa8XFPuvbdR3f/view?usp=sharing)
 
+- CSJN, Fallo Coronel, Gustavo Javier, [aca](https://drive.google.com/file/d/1kslBUCofBjqzYSqUjl-dV5q7sZo_unnV/view?usp=sharing)
+
 - Inadi, Dictamen Colihueque, [aca](https://drive.google.com/file/d/1_t9jnOgqHc9qw7PyU6nuJS0_VORXtdLj/view?usp=sharing¨)
 
 - video sentencia colihueque 
@@ -250,5 +252,5 @@ otros ejemplos
 
 ### `r advdate(viernes, 8)`. Examen final presencial
 
-- caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing)
+<!-- - caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing) -->
 
