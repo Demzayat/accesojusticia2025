@@ -121,7 +121,7 @@ b.  Usurpaciones y derecho de defensa
 
 <!-- - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing) -->
 
-- Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)"
+<!-- - Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)" -->
 
 ### `r advdate(martes, 4)`. Unidad 3. La práctica
 
@@ -154,7 +154,7 @@ d.  LGBT Trans
 
 -   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view)
 
-- Caso Corte IDH, Vicky Hernandez c/ Honduras
+- Caso Corte IDH, Vicky Hernandez c/ Honduras [sentencia](https://www.corteidh.or.cr/docs/casos/articulos/seriec_422_esp.pdf) y [resumen](https://www.corteidh.or.cr/docs/casos/articulos/resumen_422_esp.pdf) y [video](https://www.youtube.com/watch?v=5AXht8vR6l8) a partir del minuto 40.
 
 - Caso de Luz Aime, [aca](https://www.cosecharoja.org/absolucion-para-luz-le-quieren-dar-perpetua-por-trans-y-pobre/)
 
@@ -186,7 +186,7 @@ e. Mujeres (cont)
 
 -   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/). Leer la introducción y las fichas 1, 3, 5 y 6.
 
-- Caso Diaca Sacayan
+- Caso Diaca Sacayan [aca](https://consejomagistratura.gov.ar/wp-content/uploads/2022/04/Camara-nacional-de-Casacion-Crim-y-Correc.-CABA.pdf), [noticia]( https://agenciapresentes.org/2025/04/04/la-corte-desestimo-el-recurso-por-el-travesticidio-de-diana-sacayan-que-implica) y [video](https://www.youtube.com/watch?v=c50-8xF2E5A) a partir de la 1:45 hora
 
 -   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
 
@@ -225,7 +225,7 @@ f.  Pueblos originarios
 
 - Inadi, Dictamen Colihueque, [aca](https://drive.google.com/file/d/1_t9jnOgqHc9qw7PyU6nuJS0_VORXtdLj/view?usp=sharing¨)
 
-- video sentencia colihueque 
+- Video sentencia colihueque 
 
 <iframe src="https://drive.google.com/file/d/1l0JvN4Kem5L9y8e-wwhxmfGpSnU4p72g/preview" width="640" height="480" allow="autoplay"></iframe>
 
