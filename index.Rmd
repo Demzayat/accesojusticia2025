@@ -21,7 +21,9 @@ advdate <- function(obj, adv) {
 ```
 
 Demián Zayat
-dzayat@derecho.uba.ar
+dzayat@derecho.uba.ar<br>
+Ayudante Tamara London
+tamaralondon@derecho.uba.ar
 
 ## Programa
 
@@ -107,9 +109,9 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 - CSJN Fallo "Chiemena Uhiara" [aca](https://drive.google.com/file/d/1m4EdxUp68KgqEPfTHjRH59QR_IDpFAk5/view?usp=sharing)
 
-- <mark style="background-color: #FFEA00; color: black;">CSJN, Fallo "Ramírez Balbuena" [aca](https://drive.google.com/file/d/1Ywkky3GM7QkgfrJzKadus-wxZKdKI1aj/view?usp=sharing) (agregado recién)</mark> 
+- CSJN, Fallo "Ramírez Balbuena" [aca](https://drive.google.com/file/d/1Ywkky3GM7QkgfrJzKadus-wxZKdKI1aj/view?usp=sharing) (agregado recién) 
 
-- <mark style="background-color: #FFEA00; color: black;">DNU 366/2025 [aca](https://servicios.infoleg.gob.ar/infolegInternet/anexos/410000-414999/413297/norma.htm) (agregado recién)</mark>
+- DNU 366/2025 [aca](https://servicios.infoleg.gob.ar/infolegInternet/anexos/410000-414999/413297/norma.htm) 
 
 - DNU 942/2024, art. 4 [aca](https://servicios.infoleg.gob.ar/infolegInternet/anexos/405000-409999/405520/norma.htm)
 
@@ -125,7 +127,7 @@ b.  Usurpaciones y derecho de defensa
 
 <!-- - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing) -->
 
-<!-- - Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)" -->
+- Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)"
 
 ### `r advdate(martes, 4)`. Unidad 3. La práctica
 
