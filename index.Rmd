@@ -237,7 +237,7 @@ f.  Pueblos originarios
 
 
 
-### `r advdate(viernes, 7)` y `r advdate(martes, 8)` . Unidad 4. Litigio Constitucional
+### `r advdate(viernes, 7)` . Unidad 4. Litigio Constitucional
 
 
 
@@ -256,7 +256,7 @@ otros ejemplos
 - CSJN, [Quisbert Castro](https://drive.google.com/file/d/1kepRDLt6tK6OjOfKD_d4vBkkivAKNYHk/view?usp=sharing)
 
 
-### `r advdate(viernes, 8)`. Examen final presencial
+### `r advdate(martes, 8)`. Examen final presencial
 
 <!-- - caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing) -->
 
