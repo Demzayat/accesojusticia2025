@@ -141,12 +141,18 @@ b.  Personas con discapacidad
 
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
 
-### `r advdate(viernes, 4)`. Unidad 3. La práctica -Niñeces
+### `r advdate(viernes, 4)`. Paro. hacemos Virtual
+
+Aula virtual: https://meet.google.com/fxi-zfbu-qbp
+
+Terminamos Personas con discapacidad (Asoc. Francesa e Institutos Antártida) y ejecucionoes contra el estado,  y empezamos con R.M.J 
+
+### Unidad 3. La práctica - Salud Mental
 
 - CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
 
 
-### `r advdate(martes, 5)`. Unidad 3. La práctica - LGBTIQ
+### `r advdate(martes, 5)`. Unidad 3. La práctica - Niñeces y LGBTIQ
 
 c. Niñeces
 
