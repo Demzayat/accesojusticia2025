@@ -143,7 +143,6 @@ b.  Personas con discapacidad
 
 ### `r advdate(viernes, 4)`. Paro. hacemos Virtual
 
-Aula virtual: https://meet.google.com/fxi-zfbu-qbp
 
 Terminamos Personas con discapacidad (Asoc. Francesa e Institutos Antártida) y ejecucionoes contra el estado,  y empezamos con R.M.J 
 
@@ -192,42 +191,28 @@ e.  Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-### `r advdate(martes, 6)`. Unidad 3. La práctica - Mujeres
+### `r advdate(viernes, 6)`. Unidad 3. La práctica - Mujeres
 
 e. Mujeres (cont)
 
 -   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/). Leer la introducción y las fichas 1, 3, 5 y 6.
 
-- Caso Diaca Sacayan [aca](https://consejomagistratura.gov.ar/wp-content/uploads/2022/04/Camara-nacional-de-Casacion-Crim-y-Correc.-CABA.pdf), [noticia]( https://agenciapresentes.org/2025/04/04/la-corte-desestimo-el-recurso-por-el-travesticidio-de-diana-sacayan-que-implica) y [video](https://www.youtube.com/watch?v=c50-8xF2E5A) a partir de la 1:45 hora
-
 -   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
 
 - Ley de Protección integral conta la Mujer [aca](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/texact.htm) 
-
-- Introduccion, M. L. Carrera, N. Saralegui, [Dicen que tuve un bebe](https://drive.google.com/file/d/11CkDJsJytes8lsTh1XaulrLOuNEknJel/view)
 
 Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/prUqWHKnUd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
-### `r advdate(viernes, 6)`. Unidad 3. La práctica - Afro
-
-e.  Africanos y afrodescendientes
-
--   Informe Defensoria CABA, [aca](https://drive.google.com/file/d/1vIoZ7GBl8fwXbZWhqoCxqOHsHMvP7Dki/view?usp=sharing)
+e. Afrodescendientes y africanos
 
 -   Angela Davis, "Raza, Mujeres y clase", Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing))
 
--   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S)
-
-
-Acá el video de la charla TED de Kimberle Crenshaw sobre interseccionalidad
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### `r advdate(martes, 7)`. Unidad 3. La práctica - Pueblos originarios
+
+-   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S)
 
 f.  Pueblos originarios
 
