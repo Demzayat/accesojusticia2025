@@ -251,3 +251,8 @@ otros ejemplos
 
 <!-- - caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing) -->
 
+
+
+<footer>
+[📧 Suscribirse a la lista de difusión del curso](https://groups.google.com/g/accesojusticia/members){.btn .btn-default}
+</footer>
